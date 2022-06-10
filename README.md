@@ -1,1 +1,1 @@
-# laying foundation for working with jQuery
+#jQuery Practice
